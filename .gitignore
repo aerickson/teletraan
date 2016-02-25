@@ -2,6 +2,9 @@
 deploy-board/teletraan/
 deploy-service/teletraanservice/teletraan/
 
+# PIP
+MANIFEST
+
 # IntelliJ files
 .idea/
 *.iml
